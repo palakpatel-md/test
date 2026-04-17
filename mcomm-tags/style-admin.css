@@ -1,0 +1,6 @@
+.widefat {width: 100%;}
+.tab-tags td {
+    display: block;
+}
+.error{color:red;}
+.successmsg{ background: #fff;  border-left: 4px solid #7ad03a;  padding: 10px 0 10px 15px;}
