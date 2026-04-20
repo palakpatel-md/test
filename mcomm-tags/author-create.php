@@ -3,7 +3,7 @@
  * Function for Add new Author
  * @author Chetan
  * @package Mcomm
- * @subpackage Phase 1
+ * @subpackage Phase 2
  */
 function author_create() {
 
